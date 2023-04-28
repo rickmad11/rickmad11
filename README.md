@@ -1,1 +1,1 @@
-![image](https://user-images.githubusercontent.com/118388835/235240482-344b8fc5-2188-4003-b4f2-51c3bee60b5f.png)
+![4-aesthetic-anime-discord-banner-gif-eye-closeup](https://user-images.githubusercontent.com/118388835/235245259-2ac3ce3a-3053-4741-946f-4594cbf3e90c.gif)
