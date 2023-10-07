@@ -1,2 +1,4 @@
-![ezgif-1-d966cb8aa6](https://user-images.githubusercontent.com/118388835/235245637-ec96c1ad-5188-4185-af32-4b0f334dd544.gif)
-![Download](https://user-images.githubusercontent.com/118388835/235391206-53bee19d-d833-46e3-ba51-cb8813288435.gif)
+![giphy](https://github.com/rickmad11/rickmad11/assets/118388835/6e9c5077-7b39-407a-bd2b-fcf4ed67c1ec) 
+![giphy](https://github.com/rickmad11/rickmad11/assets/118388835/6e9c5077-7b39-407a-bd2b-fcf4ed67c1ec) 
+![giphy](https://github.com/rickmad11/rickmad11/assets/118388835/6e9c5077-7b39-407a-bd2b-fcf4ed67c1ec) 
+![I7Y05Vw](https://github.com/rickmad11/rickmad11/assets/118388835/29d91d24-a9b9-44cc-aee2-f49f8e16172e)
