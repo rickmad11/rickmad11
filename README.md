@@ -5,6 +5,9 @@
 
 [![rickmad11 GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0781623f-44d5-4058-ba2b-c1890c8bc90e&langs_count=10&theme=dark)](https://wakatime.com/@0781623f-44d5-4058-ba2b-c1890c8bc90e)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=rickmad11&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rickmad11&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
