@@ -6,6 +6,13 @@
 [![rickmad11 GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0781623f-44d5-4058-ba2b-c1890c8bc90e&langs_count=10&theme=dark)](https://wakatime.com/@0781623f-44d5-4058-ba2b-c1890c8bc90e)
 
 <!--START_SECTION:waka-->
+
+```txt
+C++           2 hrs 48 mins   ███████████████░░░░░░░░░░   60.40 %
+IDA           55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+Objective-C   54 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Github Stats
