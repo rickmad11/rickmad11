@@ -1,9 +1,9 @@
 ![I7Y05Vw](https://github.com/rickmad11/rickmad11/assets/118388835/29d91d24-a9b9-44cc-aee2-f49f8e16172e)
 
 ### Total time coded since Jul 6 2025
-<a href="https://wakatime.com/@0781623f-44d5-4058-ba2b-c1890c8bc90e"><img src="https://wakatime.com/badge/user/0781623f-44d5-4058-ba2b-c1890c8bc90e.svg?style=for-the-badge" alt="Total time coded since Jul 6 2025" /></a>
+<a href="https://wakatime.com/@0781623f-44d5-4058-ba2b-c1890c8bc90e"><img src="https://wakatime.com/badge/user/0781623f-44d5-4058-ba2b-c1890c8bc90e.svg" alt="Total time coded since Jul 6 2025"/></a>
 
-[![rickmad11 GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0781623f-44d5-4058-ba2b-c1890c8bc90e&langs_count=10&theme=dark)](https://wakatime.com/@0781623f-44d5-4058-ba2b-c1890c8bc90e)
+[![rickmad11 GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0781623f-44d5-4058-ba2b-c1890c8bc90e&langs_count=8&theme=dark)](https://wakatime.com/@0781623f-44d5-4058-ba2b-c1890c8bc90e)
 
 <!--START_SECTION:waka-->
 
